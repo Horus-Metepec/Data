@@ -1,0 +1,24 @@
+{
+    "Mejores Rendimientos": [
+        {
+            "Direccion": "Tesorería"
+        },
+        {
+            "Direccion": "Dirección De Seguridad Pública"
+        },
+        {
+            "Direccion": "Contraloría Municipal"
+        }
+    ],
+    "Peores Rendimientos": [
+        {
+            "Direccion": "Dirección De Servicios Públicos"
+        },
+        {
+            "Direccion": "Dirección De Medio Ambiente"
+        },
+        {
+            "Direccion": "Dirección De Desarrollo Económico, Turístico Y Artesanal"
+        }
+    ]
+}
