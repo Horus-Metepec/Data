@@ -55,8 +55,8 @@
             {
                 "Direccion": "Seguridad_Publica",
                 "Resueltos": 140,
-                "Pendientes": 2,
-                "Rendimiento": 99.0
+                "Pendientes": 3,
+                "Rendimiento": 98.0
             },
             {
                 "Direccion": "Proteccion_Civil_y_Bomberos",
@@ -97,8 +97,8 @@
         ],
         "Resumen": {
             "Resueltos_totales": 346,
-            "Pendientes_totales": 5,
-            "Rendimiento_general": 99.0
+            "Pendientes_totales": 6,
+            "Rendimiento_general": 98.0
         }
     },
     "Legal_y_Planeacion": {
@@ -157,13 +157,13 @@
             {
                 "Direccion": "Tesoreria",
                 "Resueltos": 226,
-                "Pendientes": 6,
+                "Pendientes": 7,
                 "Rendimiento": 97.0
             }
         ],
         "Resumen": {
             "Resueltos_totales": 278,
-            "Pendientes_totales": 6,
+            "Pendientes_totales": 7,
             "Rendimiento_general": 98.0
         }
     },
