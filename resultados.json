@@ -1,26 +1,16 @@
 {
     "Mejores Rendimientos": [
         {
-            "Direccion": "Tesorería"
+            "Direccion": "Dirección De Administración"
         },
         {
-            "Direccion": "Dirección De Seguridad Pública"
+            "Direccion": "Coordinación De Asesores"
         },
         {
-            "Direccion": "Contraloría Municipal"
+            "Direccion": null
         }
     ],
-    "Peores Rendimientos": [
-        {
-            "Direccion": "Dirección De Servicios Públicos"
-        },
-        {
-            "Direccion": "Dirección De Medio Ambiente"
-        },
-        {
-            "Direccion": "Dirección De Desarrollo Económico, Turístico Y Artesanal"
-        }
-    ],
-    "TotResueltos": 1311.0,
-    "TotPendientes": 36.0
+    "Peores Rendimientos": [],
+    "TotResueltos": 0.0,
+    "TotPendientes": 0.0
 }
