@@ -1,16 +1,26 @@
 {
     "Mejores Rendimientos": [
         {
-            "Direccion": "Dirección De Administración"
+            "Direccion": null
         },
         {
-            "Direccion": "Coordinación De Asesores"
+            "Direccion": null
         },
         {
             "Direccion": null
         }
     ],
-    "Peores Rendimientos": [],
+    "Peores Rendimientos": [
+        {
+            "Direccion": null
+        },
+        {
+            "Direccion": null
+        },
+        {
+            "Direccion": null
+        }
+    ],
     "TotResueltos": 0.0,
     "TotPendientes": 0.0
 }
