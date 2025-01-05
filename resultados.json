@@ -1,24 +1,24 @@
 {
     "Mejores Rendimientos": [
         {
-            "Direccion": null
+            "Direccion": "Tesorería"
         },
         {
-            "Direccion": null
+            "Direccion": "Seguridad Pública"
         },
         {
-            "Direccion": null
+            "Direccion": "Contraloría Municipal"
         }
     ],
     "Peores Rendimientos": [
         {
-            "Direccion": null
+            "Direccion": "Servicios Públicos"
         },
         {
-            "Direccion": null
+            "Direccion": "Obras Públicas"
         },
         {
-            "Direccion": null
+            "Direccion": "Medio Ambiente"
         }
     ],
     "TotResueltos": 0.0,
