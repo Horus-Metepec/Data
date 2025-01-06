@@ -10,13 +10,13 @@
             {
                 "Direccion": "Servicios_Publicos",
                 "Resueltos": 0,
-                "Pendientes": 0,
+                "Pendientes": 11,
                 "Rendimiento": 0
             },
             {
                 "Direccion": "OPDAPAS",
                 "Resueltos": 0,
-                "Pendientes": 0,
+                "Pendientes": 1,
                 "Rendimiento": 0
             },
             {
@@ -28,7 +28,7 @@
             {
                 "Direccion": "Medio_Ambiente",
                 "Resueltos": 0,
-                "Pendientes": 0,
+                "Pendientes": 5,
                 "Rendimiento": 0
             },
             {
@@ -40,7 +40,7 @@
         ],
         "Resumen": {
             "Resueltos_totales": 0,
-            "Pendientes_totales": 0,
+            "Pendientes_totales": 17,
             "Rendimiento_general": 0
         }
     },
@@ -55,7 +55,7 @@
             {
                 "Direccion": "Seguridad_Publica",
                 "Resueltos": 0,
-                "Pendientes": 0,
+                "Pendientes": 2,
                 "Rendimiento": 0
             },
             {
@@ -73,7 +73,7 @@
             {
                 "Direccion": "Desarrollo_Economico_Turistico_y_Artesanal",
                 "Resueltos": 0,
-                "Pendientes": 0,
+                "Pendientes": 2,
                 "Rendimiento": 0
             },
             {
@@ -97,7 +97,7 @@
         ],
         "Resumen": {
             "Resueltos_totales": 0,
-            "Pendientes_totales": 0,
+            "Pendientes_totales": 4,
             "Rendimiento_general": 0
         }
     },
@@ -106,7 +106,7 @@
             {
                 "Direccion": "Consejeria_Juridica",
                 "Resueltos": 0,
-                "Pendientes": 0,
+                "Pendientes": 1,
                 "Rendimiento": 0
             },
             {
@@ -118,7 +118,7 @@
             {
                 "Direccion": "Gobernacion",
                 "Resueltos": 0,
-                "Pendientes": 0,
+                "Pendientes": 2,
                 "Rendimiento": 0
             },
             {
@@ -142,7 +142,7 @@
         ],
         "Resumen": {
             "Resueltos_totales": 0,
-            "Pendientes_totales": 0,
+            "Pendientes_totales": 3,
             "Rendimiento_general": 0
         }
     },
@@ -157,13 +157,13 @@
             {
                 "Direccion": "Tesoreria",
                 "Resueltos": 0,
-                "Pendientes": 0,
+                "Pendientes": 7,
                 "Rendimiento": 0
             }
         ],
         "Resumen": {
             "Resueltos_totales": 0,
-            "Pendientes_totales": 0,
+            "Pendientes_totales": 7,
             "Rendimiento_general": 0
         }
     },
@@ -184,13 +184,13 @@
             {
                 "Direccion": "SMDIF",
                 "Resueltos": 0,
-                "Pendientes": 0,
+                "Pendientes": 2,
                 "Rendimiento": 0
             }
         ],
         "Resumen": {
             "Resueltos_totales": 0,
-            "Pendientes_totales": 0,
+            "Pendientes_totales": 2,
             "Rendimiento_general": 0
         }
     },
