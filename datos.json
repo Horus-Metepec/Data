@@ -73,8 +73,8 @@
             {
                 "Direccion": "Desarrollo_Economico_Turistico_y_Artesanal",
                 "Resueltos": 2,
-                "Pendientes": 2,
-                "Rendimiento": 50.0
+                "Pendientes": 3,
+                "Rendimiento": 40.0
             },
             {
                 "Direccion": "IMCUFIDEM",
@@ -97,8 +97,8 @@
         ],
         "Resumen": {
             "Resueltos_totales": 6,
-            "Pendientes_totales": 12,
-            "Rendimiento_general": 33.0
+            "Pendientes_totales": 13,
+            "Rendimiento_general": 32.0
         }
     },
     "Legal_y_Planeacion": {
