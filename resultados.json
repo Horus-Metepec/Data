@@ -1,13 +1,13 @@
 {
     "Mejores Rendimientos": [
         {
-            "Direccion": "Contraloría Municipal"
-        },
-        {
             "Direccion": "Tesorería"
         },
         {
-            "Direccion": "Dirección De Obras Públicas"
+            "Direccion": "Contraloría Municipal"
+        },
+        {
+            "Direccion": "Dirección De Seguridad Pública"
         }
     ],
     "Peores Rendimientos": [
@@ -15,12 +15,12 @@
             "Direccion": "Dirección De Servicios Públicos"
         },
         {
-            "Direccion": "Dirección De Seguridad Pública"
+            "Direccion": "Dirección De Medio Ambiente"
         },
         {
-            "Direccion": "Dirección De Medio Ambiente"
+            "Direccion": "SMDIF"
         }
     ],
-    "TotResueltos": 45.0,
-    "TotPendientes": 53.0
+    "TotResueltos": 72.0,
+    "TotPendientes": 79.0
 }
