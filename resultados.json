@@ -1,26 +1,26 @@
 {
     "Mejores Rendimientos": [
         {
-            "Direccion": "Tesorería"
+            "Direccion": "Seguridad Pública"
         },
         {
             "Direccion": "Contraloría Municipal"
         },
         {
-            "Direccion": "Dirección De Seguridad Pública"
+            "Direccion": "OPDAPAS"
         }
     ],
     "Peores Rendimientos": [
         {
-            "Direccion": "Gobierno por Resultados"
-        },
-        {
-            "Direccion": "OPDAPAS"
+            "Direccion": "Tesorería"
         },
         {
             "Direccion": "Medio Ambiente"
+        },
+        {
+            "Direccion": "Servicios Públicos"
         }
     ],
-    "TotResueltos": 103.0,
-    "TotPendientes": 101.0
+    "TotResueltos": 143.0,
+    "TotPendientes": 135.0
 }
