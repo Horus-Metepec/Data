@@ -4,23 +4,23 @@
             "Direccion": "Seguridad Pública"
         },
         {
-            "Direccion": "Contraloría Municipal"
+            "Direccion": "Tesorería"
         },
         {
-            "Direccion": "OPDAPAS"
+            "Direccion": "Contraloría Municipal"
         }
     ],
     "Peores Rendimientos": [
         {
-            "Direccion": "Tesorería"
+            "Direccion": "Gobierno por Resultados"
         },
         {
             "Direccion": "Medio Ambiente"
         },
         {
-            "Direccion": "Servicios Públicos"
+            "Direccion": "Desarrollo Urbano y Metropolitano"
         }
     ],
-    "TotResueltos": 143.0,
-    "TotPendientes": 135.0
+    "TotResueltos": 156.0,
+    "TotPendientes": 158.0
 }
