@@ -4,23 +4,23 @@
             "Direccion": "Seguridad Pública"
         },
         {
-            "Direccion": "Tesorería"
+            "Direccion": "Contraloría Municipal"
         },
         {
-            "Direccion": "Contraloría Municipal"
+            "Direccion": "Tesorería"
         }
     ],
     "Peores Rendimientos": [
-        {
-            "Direccion": "Medio Ambiente"
-        },
         {
             "Direccion": "Gobierno por Resultados"
         },
         {
             "Direccion": "Desarrollo Urbano y Metropolitano"
+        },
+        {
+            "Direccion": "SMDIF"
         }
     ],
-    "TotResueltos": 169.0,
-    "TotPendientes": 167.0
+    "TotResueltos": 197.0,
+    "TotPendientes": 169.0
 }
