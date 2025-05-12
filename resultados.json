@@ -7,20 +7,20 @@
             "Direccion": "Seguridad Pública"
         },
         {
-            "Direccion": "Tesorería"
+            "Direccion": "Consejería Jurídica"
         }
     ],
     "Peores Rendimientos": [
         {
-            "Direccion": "Desarrollo Urbano y Metropolitano"
+            "Direccion": "Tesorería"
         },
         {
-            "Direccion": "Desarrollo Económico"
+            "Direccion": "Desarrollo Urbano y M."
         },
         {
             "Direccion": "Gobierno por Resultados"
         }
     ],
-    "TotResueltos": 298.0,
-    "TotPendientes": 144.0
+    "TotResueltos": 320.0,
+    "TotPendientes": 163.0
 }
